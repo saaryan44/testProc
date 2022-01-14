@@ -1,0 +1,3 @@
+img. id="resizable-img" hi=wi=320px
+slider inputs x2 id="height-slider"...
+min:100px max:800px default:320px
